@@ -1,0 +1,7 @@
+const FORMDATA = {
+  LOAD: "DATA_LOAD",
+  LOAD_SUCCESS: "DATA_LOAD_SUCCESS",
+  LOAD_FAIL: "DATA_LOAD_FAIL",
+};
+
+export { FORMDATA };
